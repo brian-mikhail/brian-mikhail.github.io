@@ -1,0 +1,83 @@
+ .title {
+	background-color: rgb(9,202,159);
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-right: 415px;
+	padding-left: 415px;
+	font-family: times new roman;
+}
+
+.place {
+	text-align: center;
+	font-size: 20px;
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-right: 50px;
+	padding-left: 50px;
+	font-family: times new roman;
+}
+
+.maui {
+
+	background: rgb(196,222,252);
+	font-size: 25px;
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 415px;
+	padding-left: 415px;
+	font-family: times new roman;
+
+
+}
+
+.reykjavik {
+    background: rgb(194,242,227);
+    font-size: 25px;
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 415px;
+	padding-left: 415px;
+	font-family: times new roman;
+
+}
+
+.ice {
+	text-align: left;
+}
+.aspen {
+background: rgb(196,222,252);
+	font-size: 25px;
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 415px;
+	padding-left: 415px;
+	font-family: times new roman;
+
+}
+
+.footer{
+	margin: 0 auto;
+	text-align: left;
+	font-family: times new roman;
+}
+
+img {
+	max-width: 500px;
+}
