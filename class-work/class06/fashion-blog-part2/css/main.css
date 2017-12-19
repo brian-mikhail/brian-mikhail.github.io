@@ -1,0 +1,224 @@
+.header {
+	width: 1000px;
+	border-left: 6px solid #dddddd;
+	padding-left: 54px;
+	padding-top: 54px;
+}
+
+
+
+
+.content {
+	color: rgb(136, 136, 136);
+	width: 720px;
+	padding: 0px 54px 54px 54px;
+	border-left: 6px solid #dddddd;
+	float: left;
+}
+
+
+.pagename {
+	color: rgb(222, 24, 0);
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	font-size: 55px;
+	display: inline;
+	padding-right: 30px;
+
+}
+
+.bestdressed {
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	display: inline;
+	color: grey;
+	font-size: 30px;
+}
+
+.toptabs a{
+    font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	background-color: black;
+	padding: 20px 40px 20px 40px;
+
+
+}
+
+.dateofarticle {
+
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #cccccc;
+}
+
+.seconddate {
+
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #cccccc;
+}
+
+.firstarticle {
+	color: black;
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+
+
+}
+
+
+.secondarticle {
+	color: black;
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+}
+
+.firstparagraph {
+
+	color: black;
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	margin: 0 auto;
+}
+
+.firstparagraph:first-letter {
+	font-size: 500%;
+	color: rgb(221, 221, 221);
+}
+
+
+.secondparagraph {
+
+	color: black;
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	margin: 0 auto;
+}
+
+.secondparagraph:first-letter {
+	font-size: 500%;
+	color: rgb(221, 221, 221);
+}
+
+.continues {
+	color: red;
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	text-align: right;
+	font-weight: bold;
+}
+
+.continuestwo {
+
+color: red;
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	text-align: right;
+	font-weight: bold;
+
+}
+
+.aboutus {
+    color: rgb(136, 136, 136);
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	margin: 0 auto;
+
+}
+
+.more {
+	color: red;
+	font-family: "lato", serif;
+	font-weight: bold;
+	line-height: 1.5;
+	margin: 0 auto;
+	text-align: right;
+}
+
+.container {
+	background-color: rgb(204, 204, 204);
+	float: left;
+	width: 200px;
+	padding: 54px 54px 54px 54px;
+	font-size: 45px;
+	text-align: center;
+	color: rgb(150, 150, 150);
+}
+
+.aside {
+	float: left;
+	width: 300px;
+	padding-top: 54px;
+	padding-bottom: 54px;
+}
+
+.floataboutus {
+	font-weight: bold;
+	color: rgb(136, 136, 136);
+}
+
+.secondaside {
+
+	float: left;
+	width: 300px;
+	padding-top: 54px;
+}
+
+.popularposts {
+	color: rgb(136, 136, 136);
+	font-weight: bold;
+	padding-top: 54px;
+}
+
+.topten {
+	color: red;
+	font-weight: normal;
+	padding: 10px 20px 20px 10px;
+}
+
+.listspace {
+
+   padding: 10px 10px 20px 10px;
+   font-family: "lato", serif;
+   font-weight: normal;
+   line-height: 1.5;
+   margin: 0 auto;
+   float: left;	
+}
+
+.bottomtabs {
+
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #dd0000;
+
+}
+
+.footer {
+
+    color: #bbbbbb;
+	font-family: "lato", serif;
+	font-weight: normal;
+	line-height: 1.5;
+
+}
+
+img {
+	width: 100%;
+}
