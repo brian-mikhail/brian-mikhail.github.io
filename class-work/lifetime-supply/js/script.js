@@ -13,12 +13,21 @@
 
 // 3. Lastly, output the correct values to for the user
 
+
 function calculateDrinks() {
   // 1. Store inputs as variables here:
-  var currentAge = ...
+  var currentAge = document.querySelector('#current-age').value;
+
+  var drinksLeft = document.querySelector('#max-age').value;
+
+  var favDrink = document.querySelector('#fav-drink').value;
+
+  var numPerDay = document.querySelector('#num-per-day').value;
 
   // 2. Caclulate drinksLeft
-  var drinksLeft = ...
+
+  var drinksLeft = (maxAge)
+  
 
   // 3. Output result for user to see:
   document.querySelector('#total-num-of-drinks-output').innerHTML = ...
