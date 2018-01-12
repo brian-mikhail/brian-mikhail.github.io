@@ -1,4 +1,24 @@
 body {
-	background: red;
-	color: white;
+	background: rgb(248, 248, 248);
+	color: black;
+}
+
+.heading {
+	margin: 0 auto;
+}
+
+
+.bodydiv {
+
+text-align: center;
+font-family: 'Fenix', serif;
+font-weight: normal;
+font-size: 40px;
+margin: 0 auto;
+
+}
+
+img {
+width: 100%;
+
 }
