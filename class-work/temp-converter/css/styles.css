@@ -1,0 +1,30 @@
+.bodystyle {
+	font-family:'Lobster', cursive;
+	font-size: 40px;
+	text-align: center;
+	background-color: rgb(56, 65, 77);
+	color: red;
+	padding-bottom: 0px;
+}
+
+#celtemp {
+	display: inline-flex;
+	padding-bottom: 100px;
+	padding-top: 1px;
+}
+
+#fertemp {
+	display: inline-flex;
+	padding-bottom: 100px;
+	padding-top: 0px;
+}
+
+
+
+
+
+
+img {
+
+	width: 100%;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Temp Converter</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+	<body class="bodystyle">
+
+		<p>Temperature Converter</p>
+
+		<div id="celtemp">
+			<textarea></textarea>
+			<button>Celsius</button>
+
+
+		</div>
+
+		
+		<div id="fertemp">
+			
+			<textarea></textarea>
+			<button>Fahrenheit</button>
+
+		</div>
+
+		<p>
+  		<label>Fahrenheit</label>
+  		<input id="inputFahrenheit" type="number" placeholder="Fahrenheit"
+ 		 oninput="temperatureConverter(this.value)"
+ 		 onchange="temperatureConverter(this.value)">
+		</p>
+		<p>Celsius: <span id="outputCelsius"></span></p>
+
+
+
+
+
+
+		<img src="https://technotes.alconox.com/wp-content/uploads/2017/03/Temp.jpg">
+
+
+		<script src="https://code.jquery.com/jquery-2.2.2.min.js"></script>
+		<script src="js/app.js"></script>
+		
+	</body>
+</html>
