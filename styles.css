@@ -1,25 +1,44 @@
 body {
-	background: rgb(248, 248, 248);
-	color: black;
+	background: radial-gradient(circle, black, white);
+}
+
+
+.autoplay {
+
+width: 100%;
+
 }
 
 .heading {
 	margin: 0 auto;
+	color: rgb(39, 40, 34);
+}
+
+.buttonstyles {
+	padding-bottom: 20px;
+	font-family: 'Source Code Pro', monospace;
 }
 
 
 .bodydiv {
 
 text-align: center;
-font-family: 'Fenix', serif;
+font-family: 'Source Code Pro', monospace;
 font-weight: normal;
 font-size: 40px;
 margin: 0 auto;
+color: ;
 
 }
 
 img {
-width: 100%;
+width: 70%;
 padding-top: 25px;
-
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding:1px;
+border:1px solid #021a40;
+background-color:black;
 }
+

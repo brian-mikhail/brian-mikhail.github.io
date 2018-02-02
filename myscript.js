@@ -1,7 +1,13 @@
-$('.autoplay').slick({
-  slidesToShow: 1,
-  slidesToScroll: 1,
-  autoplay: true,
-  autoplaySpeed: 1000,
-  fade: true
-});
+function changePicture() {
+	var thisSrc = $(this).data('photo');
+	$('#bigimage').attr('src', thisSrc);		
+}
+
+function changePictureBack() {
+	$('#bigimage').hover(changePictureBack);
+}
+
+$('.button').hover(changePicture, changePictureBack);
+
+$('#second').hover(changePicture);
+$('#third').hover(changePicture);
